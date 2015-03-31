@@ -1,0 +1,4 @@
+twarc
+gensim
+requests
+
