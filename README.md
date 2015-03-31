@@ -1,6 +1,7 @@
-Tweets using the #iftheygunnedmedown hashtag from the 13.480,000 tweets
-mentioning Ferguson between 2014-08-10 and 2014-08-27. It was assembled 
-working with Chanon Adsanatham at the University of Maryland.
+Tweets using the #iftheygunnedmedown hashtag from MITH''s 
+[collection](https://archive.org/details/fergusoncrawl) of 
+13.480,000 tweets mentioning Ferguson between 2014-08-10 and 2014-08-27. It 
+was assembled working with Chanon Adsanatham at the University of Maryland.
 
 Twitter''s Terms of Service do not allow bulk redistribution of their JSON
 data, but they do allow distribution of tweet identifiers. So to do anythin
