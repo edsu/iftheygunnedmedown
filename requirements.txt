@@ -1,4 +1,5 @@
 twarc
 gensim
 requests
+scikit-learn
 
