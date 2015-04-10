@@ -4,7 +4,6 @@ import os
 import re
 import json
 
-from itertools import imap
 from gensim import corpora, models, similarities
 
 def docs():
