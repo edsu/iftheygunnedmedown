@@ -1,2 +1,5 @@
 tweets.json
 tweets.json.gz
+*.mm
+*.dict
+*.index
