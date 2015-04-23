@@ -74,8 +74,7 @@ def main():
     for topic in lda.show_topics(num_topics=args.num_topics, num_words=args.num_words, formatted=False):
         count += 1 
         print "topic #%i" % count
-        for score, label in topic:
-            print "- %s" % label.strip()
+        print ', '.join(t[1] for t in topic).encode('utf8')
         print
 
 if __name__ == "__main__":
